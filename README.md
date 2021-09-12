@@ -1,4 +1,4 @@
 # switch-active-menus-js
  
  
- Custom Menu Active State with Jquery. 
+ Custom Menu Active State in Jquery. 
